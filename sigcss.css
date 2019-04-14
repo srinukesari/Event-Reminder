@@ -1,0 +1,67 @@
+body{
+	background-image:url(14-1.jpg);
+	background-attachment:fixed;
+}
+h1{
+	text-align:center;
+	padding:25px 0px 0px;
+}
+.signup{
+	width:300px;
+	height:490px;
+	background-color:green; 
+	margin:0px 500px 0px;
+	padding:5px 20px 20px;
+}
+.signup p{
+	text-align:left;
+	font-size:18px;
+	margin-bottom:2px;
+}
+.signup input[type="submit"]
+{
+	border:none;
+	outline:none;
+	border-radius: 20px;
+	height:40px;
+	background:lime;
+	width:50%;
+	text-align: center;
+	margin-top:20px;
+	margin-left:75px;
+	margin-bottom:0px;
+
+}
+h2{
+	text-align:centre;
+	padding:100px 0px 0px;
+}
+.signup input[type="submit"]:hover
+{
+	cursor:pointer;
+	background:cadetblue;
+}
+.signup input[type="text"],input[type="password"]
+{
+	font-size: 16px;
+	text-align:left;
+	width:100%;
+	border-style:none;
+	border-radius:8px; 
+	outline: none;
+	border-bottom: 3px solid blue;
+    background-color:transparent;
+	height:30px;
+}
+<style>
+	#p1{
+		text-align:0px 300px 0px 0px;
+	}
+	#p2{
+		text-align:300px 300px 300px 300px;
+	}
+</style>
+.signup a
+{
+	margin-left:180px;
+}

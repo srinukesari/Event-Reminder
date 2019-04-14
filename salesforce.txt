@@ -1,0 +1,17 @@
+15 steps to develop a project in salesforce
+*******************************************
+1.gather the requirements.
+2.design the model.
+3.validation.
+4.pagelayouts(organising fields according to users)
+5.online transactions(by apex)
+6.batch transaction.
+7.scheduled transaction.
+8.integrated transaction
+9.validation and automation.
+10.testing.
+11.deployment.
+12.create users and setup security.
+13.data migration.
+14.approvals.
+15.analytics--business intelligence reports and dashboards.
